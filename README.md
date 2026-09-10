@@ -6,12 +6,7 @@
   />
 </p>
 
-<pre>
-I’m Rihaan, a hacker and security researcher primarily focused on
-<span style="color:red">Web Security</span>, <span style="color:red">Malware Research</span>,
-<span style="color:red">Reverse Engineering</span>, <span style="color:red">x64 Software Cracking</span>,
-and <span style="color:red">APK Modding</span>.
-</pre>
+<img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='40'><text x='0' y='25' font-family='monospace' font-size='16' fill='white'>I’m Rihaan, a hacker and security researcher primarily focused on </text><text x='570' y='25' font-family='monospace' font-size='16' fill='red'>Web Security, Malware Research, Reverse Engineering, x64 Software Cracking, and APK Modding.</text></svg>">
 
 ```bash
 I’m Rihaan, a hacker and security researcher primarily focused on *Web Security, Malware Research, Reverse Engineering, x64 Software Cracking, and APK Modding*.
