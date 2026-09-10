@@ -7,7 +7,7 @@
 </p>
 
 ```bash
-I’m Rihaan, a hacker and security researcher primarily focused on **Web Security, Malware Research, Reverse Engineering, x64 Software Cracking, and APK Modding**.
+I’m Rihaan, a hacker and security researcher primarily focused on *Web Security, Malware Research, Reverse Engineering, x64 Software Cracking, and APK Modding*.
 ```
 <h1 align="center"></h1>
 <p align="center">
