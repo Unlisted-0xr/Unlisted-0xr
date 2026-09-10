@@ -6,6 +6,13 @@
   />
 </p>
 
+<pre>
+I’m Rihaan, a hacker and security researcher primarily focused on
+<span style="color:red">Web Security</span>, <span style="color:red">Malware Research</span>,
+<span style="color:red">Reverse Engineering</span>, <span style="color:red">x64 Software Cracking</span>,
+and <span style="color:red">APK Modding</span>.
+</pre>
+
 ```bash
 I’m Rihaan, a hacker and security researcher primarily focused on *Web Security, Malware Research, Reverse Engineering, x64 Software Cracking, and APK Modding*.
 ```
