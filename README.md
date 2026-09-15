@@ -1,4 +1,6 @@
-![Demo](assets/mygif_exact_3s.gif)
+<p align="center">
+  <img src="assets/mygif_exact_3s.gif" width="100%">
+</p>
 
 <p align="center">
   <img
