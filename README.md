@@ -37,10 +37,11 @@ I look at systems the way problems look at locks. I work hands-on, build what I 
 </table>
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/168954568/352050706-9c826dd0-fd72-49ba-af60-e79f64344f59.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgzODAzMDMsIm5iZiI6MTc2ODM4MDAwMywicGF0aCI6Ii8xNjg5NTQ1NjgvMzUyMDUwNzA2LTljODI2ZGQwLWZkNzItNDliYS1hZjYwLWU3OWY2NDM0NGY1OS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExNFQwODQwMDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNTM4M2I3MDBkYThiNGUzYWJmMGY3NjNkYzdmNzM0MDNkYTViOTY3MjdjMzY0NzQ4NTAyZWM4Yjg5OTZjNjQ2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.s38J8w7XuN319dK1v1nWAI2FyxRGEy3EO8Ss4dgsxrY" 
-       alt="Rihaan Logo" width="180" height="auto" />
+  <img src="new.gif"
+       alt="Rihaan Logo"
+       width="180"
+       height="auto" />
 </div>
-
 
 
 <h1 align="center"></h1>
