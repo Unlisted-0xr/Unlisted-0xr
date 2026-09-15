@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/mygif_exact_3s.gif" width="700">
+  <img src="./assets/mygif_loop_boomerang_medium.gif" width="700">
 </p>
 
 <p align="center">
