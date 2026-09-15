@@ -2,13 +2,6 @@
   <img src="./assets/mygif_loop_boomerang_medium.gif" width="800">
 </p>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Unlisted-0xr/Unlisted-0xr/main/banner-233.svg"
-    alt="Bug Bounty Hunter"
-    width="100%"
-  />
-</p>
 
 ```bash
 I’m Levi, a hacker and security researcher with expertise in "Web Security, Malware R&D, x64 Software Cracking, and APK Modding".
