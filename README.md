@@ -31,17 +31,12 @@ I look at systems the way problems look at locks. I work hands-on, build what I 
       <img src="https://skillicons.dev/icons?i=react,django,flask,fastapi,mysql,postgres,mongodb,redis,linux,docker,aws,git,github&theme=dark" height="54"/>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="300"/>
+      <img src="new.gif" width="300"/>
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <img src="new.gif"
-       alt="Rihaan Logo"
-       width="180"
-       height="auto" />
-</div>
+
 
 
 <h1 align="center"></h1>
