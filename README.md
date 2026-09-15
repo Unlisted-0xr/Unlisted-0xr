@@ -1,4 +1,4 @@
-![Demo](mygif_exact_3s.gif)
+![Demo](assets/mygif_exact_3s.gif)
 
 <p align="center">
   <img
