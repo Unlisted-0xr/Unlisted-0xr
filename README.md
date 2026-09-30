@@ -4,7 +4,7 @@
 
 
 ```bash
-I’m Levi, a hacker and security researcher with expertise in "Exploit Development, Malware R&D, x64 Software Cracking, and APK Modding".
+I’m Cross, a hacker and security researcher with expertise in "Exploit Development, Malware R&D, x64 Software Cracking, and APK Modding".
 ```
 <h1 align="center"></h1>
 <p align="center">
@@ -48,15 +48,15 @@ I look at systems the way problems look at locks. I work hands-on, build what I 
 <h1 align="center">More Info</h1>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rihaan-sofi/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/cross-blakes/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-  <a href="mailto:rihaansofii@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:levisec@tutamail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" alt="Email"/>
   </a>
   
-  <a href="https://github.com/OffSecRihaan" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/unlisted-0xr" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/github-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
