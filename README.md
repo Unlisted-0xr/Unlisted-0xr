@@ -23,7 +23,7 @@ Work: Not Disclosed Yet
 <h1 align="center"><b>Methodology</b></h1>
 
 <h3>
-I look at systems the way problems look at locks. I work hands-on, build what I need, and push until patterns change. I question assumptions, test boundaries, and stay close to how things actually break. Most weaknesses only appear after trust is abused long enough. I pay attention to those moments.
+I analyze systems without assumption or bias. I work directly with the architecture, isolate variables, and test until behavior becomes clear. I challenge every boundary, verify every assumption, and document how systems respond under failure. Weaknesses rarely appear without cause. They emerge through patterns, inconsistencies, and compromised trust. I identify those points.
 </h3>
 
 <br>
