@@ -37,9 +37,6 @@ I look at systems the way problems look at locks. I work hands-on, build what I 
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=react,django,flask,fastapi,mysql,postgres,mongodb,redis,linux,docker,aws,git,github&theme=dark" height="54"/>
     </td>
-    <td align="center">
-      <img src="new.gif" width="300"/>
-    </td>
   </tr>
 </table>
 
