@@ -6,7 +6,7 @@ I’m Cross, a security researcher focused on offensive security, reverse engine
 More Info:
 
 Alias: Cross
-Based In: USA, california
+Based In: USA, Nevada Test Site
 Field: Cybersecurity
 Experience: x+ Years
 Focus: Offensive Security, Exploit Development, Malware R&D, OSINT & Cybercrime Investigations
