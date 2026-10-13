@@ -34,6 +34,7 @@ I analyze systems without assumption or bias. I work directly with the architect
 
   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,go,rust,java,html,css,php,nodejs&theme=dark" height="54"/>
 
+  <br> 
   <br>
 
 
