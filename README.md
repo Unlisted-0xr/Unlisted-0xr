@@ -1,7 +1,17 @@
 
 
 ```bash
-I’m Cross, a hacker and security researcher with expertise in "Exploit Development, Malware R&D, x64 Software Cracking, and APK Modding".
+I’m Cross, a security researcher focused on offensive security, reverse engineering, and intelligence research.
+
+More Info:
+
+Alias: Cross
+Based In: USA, california
+Field: Cybersecurity
+Experience: x+ Years
+Focus: Offensive Security, Exploit Development, Malware R&D, OSINT & Cybercrime Investigations
+Specialization: Exploit Development & Malware R&D
+Work: Not Disclosed Yet
 ```
 <h1 align="center"></h1>
 <p align="center">
