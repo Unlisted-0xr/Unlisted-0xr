@@ -9,7 +9,7 @@ Alias: Cross
 Based In: USA, Nevada Test Site
 Field: Cybersecurity
 Experience: x+ Years
-Focus: Offensive Security, Exploit Development, Malware R&D, OSINT & Cybercrime Investigations
+Focus: Offensive Security, Exploit Development, Social engineering, Malware R&D, OSINT & Cybercrime Investigations
 Specialization: Exploit Development & Malware R&D
 Work: Not Disclosed Yet
 ```
