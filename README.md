@@ -34,7 +34,6 @@ I look at systems the way problems look at locks. I work hands-on, build what I 
 
   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,go,rust,java,html,css,php,nodejs&theme=dark" height="54"/>
 
-  <br/><br/>
 
   <img src="https://skillicons.dev/icons?i=react,django,flask,fastapi,mysql,postgres,mongodb,redis,linux,docker,aws,git,github&theme=dark" height="54"/>
 
